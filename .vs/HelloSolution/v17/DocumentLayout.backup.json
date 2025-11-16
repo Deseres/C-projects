@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\HelloSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD703744-C261-4397-8C03-189C3D0BCBE2}|HelloProject\\HelloProject.csproj|c:\\users\\user\\source\\repos\\hellosolution\\helloproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD703744-C261-4397-8C03-189C3D0BCBE2}|HelloProject\\HelloProject.csproj|solutionrelative:helloproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87D2E86-BB06-4F28-A429-39C55484EFD3}|HelloLibrary\\HelloLibrary.csproj|c:\\users\\user\\source\\repos\\hellosolution\\hellolibrary\\helloclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87D2E86-BB06-4F28-A429-39C55484EFD3}|HelloLibrary\\HelloLibrary.csproj|solutionrelative:hellolibrary\\helloclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD703744-C261-4397-8C03-189C3D0BCBE2}|HelloProject\\HelloProject.csproj|c:\\users\\user\\source\\repos\\hellosolution\\helloproject\\mathutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD703744-C261-4397-8C03-189C3D0BCBE2}|HelloProject\\HelloProject.csproj|solutionrelative:helloproject\\mathutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD703744-C261-4397-8C03-189C3D0BCBE2}|HelloProject\\HelloProject.csproj|c:\\users\\user\\source\\repos\\hellosolution\\helloproject\\miscutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD703744-C261-4397-8C03-189C3D0BCBE2}|HelloProject\\HelloProject.csproj|solutionrelative:helloproject\\miscutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD703744-C261-4397-8C03-189C3D0BCBE2}|HelloProject\\HelloProject.csproj|c:\\users\\user\\source\\repos\\hellosolution\\helloproject\\stringutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD703744-C261-4397-8C03-189C3D0BCBE2}|HelloProject\\HelloProject.csproj|solutionrelative:helloproject\\stringutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD703744-C261-4397-8C03-189C3D0BCBE2}|HelloProject\\HelloProject.csproj|c:\\users\\user\\source\\repos\\hellosolution\\helloproject\\arrayutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD703744-C261-4397-8C03-189C3D0BCBE2}|HelloProject\\HelloProject.csproj|solutionrelative:helloproject\\arrayutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87D2E86-BB06-4F28-A429-39C55484EFD3}|HelloLibrary\\HelloLibrary.csproj|c:\\users\\user\\source\\repos\\hellosolution\\hellolibrary\\hellolibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A87D2E86-BB06-4F28-A429-39C55484EFD3}|HelloLibrary\\HelloLibrary.csproj|solutionrelative:hellolibrary\\hellolibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD703744-C261-4397-8C03-189C3D0BCBE2}|HelloProject\\HelloProject.csproj|c:\\users\\user\\source\\repos\\hellosolution\\helloproject\\helloproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD703744-C261-4397-8C03-189C3D0BCBE2}|HelloProject\\HelloProject.csproj|solutionrelative:helloproject\\helloproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD703744-C261-4397-8C03-189C3D0BCBE2}|HelloProject\\HelloProject.csproj|c:\\users\\user\\source\\repos\\hellosolution\\helloproject\\newfolder\\jagiela.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       0 !     \u0022     ",
+      "RelativeMoniker": "D:0:0:{AD703744-C261-4397-8C03-189C3D0BCBE2}|HelloProject\\HelloProject.csproj|solutionrelative:helloproject\\newfolder\\jagiela.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       0 !     \u0022     "
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD703744-C261-4397-8C03-189C3D0BCBE2}|HelloProject\\HelloProject.csproj|c:\\users\\user\\source\\repos\\hellosolution\\helloproject\\newfolder\\jagiela.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{AD703744-C261-4397-8C03-189C3D0BCBE2}|HelloProject\\HelloProject.csproj|solutionrelative:helloproject\\newfolder\\jagiela.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HelloLibrary.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelloSolution\\HelloLibrary\\HelloLibrary.csproj",
+              "RelativeDocumentMoniker": "HelloLibrary\\HelloLibrary.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelloSolution\\HelloLibrary\\HelloLibrary.csproj",
+              "RelativeToolTip": "HelloLibrary\\HelloLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-07T11:34:56.602Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelloClass.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelloSolution\\HelloLibrary\\HelloClass.cs",
+              "RelativeDocumentMoniker": "HelloLibrary\\HelloClass.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelloSolution\\HelloLibrary\\HelloClass.cs",
+              "RelativeToolTip": "HelloLibrary\\HelloClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T11:28:40.418Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MathUtilities.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelloSolution\\HelloProject\\MathUtilities.cs",
+              "RelativeDocumentMoniker": "HelloProject\\MathUtilities.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelloSolution\\HelloProject\\MathUtilities.cs",
+              "RelativeToolTip": "HelloProject\\MathUtilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T19:25:24.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArrayUtils.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelloSolution\\HelloProject\\ArrayUtils.cs",
+              "RelativeDocumentMoniker": "HelloProject\\ArrayUtils.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelloSolution\\HelloProject\\ArrayUtils.cs",
+              "RelativeToolTip": "HelloProject\\ArrayUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T17:54:46.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Jagiela.dll",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelloSolution\\HelloProject\\NewFolder\\Jagiela.dll",
+              "RelativeDocumentMoniker": "HelloProject\\NewFolder\\Jagiela.dll",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelloSolution\\HelloProject\\NewFolder\\Jagiela.dll",
+              "RelativeToolTip": "HelloProject\\NewFolder\\Jagiela.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2025-11-07T11:56:08.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelloSolution\\HelloProject\\Program.cs",
+              "RelativeDocumentMoniker": "HelloProject\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelloSolution\\HelloProject\\Program.cs",
+              "RelativeToolTip": "HelloProject\\Program.cs",
+              "ViewState": "AgIAABQBAAAAAAAAAAAAABQBAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T07:11:46.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MiscUtils.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelloSolution\\HelloProject\\MiscUtils.cs",
+              "RelativeDocumentMoniker": "HelloProject\\MiscUtils.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelloSolution\\HelloProject\\MiscUtils.cs",
+              "RelativeToolTip": "HelloProject\\MiscUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T09:01:15.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StringUtils.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelloSolution\\HelloProject\\StringUtils.cs",
+              "RelativeDocumentMoniker": "HelloProject\\StringUtils.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelloSolution\\HelloProject\\StringUtils.cs",
+              "RelativeToolTip": "HelloProject\\StringUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T19:22:42.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Jagiela.dll - 1 [Neutral] - Version",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelloSolution\\HelloProject\\NewFolder\\Jagiela.dll",
+              "RelativeDocumentMoniker": "HelloProject\\NewFolder\\Jagiela.dll",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelloSolution\\HelloProject\\NewFolder\\Jagiela.dll - 1 [Neutral] - Version",
+              "RelativeToolTip": "HelloProject\\NewFolder\\Jagiela.dll - 1 [Neutral] - Version",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2025-11-07T11:56:12.966Z",
+              "EditorCaption": " - 1 [Neutral] - Version"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HelloProject.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HelloSolution\\HelloProject\\HelloProject.csproj",
+              "RelativeDocumentMoniker": "HelloProject\\HelloProject.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HelloSolution\\HelloProject\\HelloProject.csproj",
+              "RelativeToolTip": "HelloProject\\HelloProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-07T11:29:55.365Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\HelloSolution\HelloLibrary\bin\Debug\net9.0\HelloLibrary.deps.json
+C:\Users\user\source\repos\HelloSolution\HelloLibrary\bin\Debug\net9.0\HelloLibrary.dll
+C:\Users\user\source\repos\HelloSolution\HelloLibrary\bin\Debug\net9.0\HelloLibrary.pdb
+C:\Users\user\source\repos\HelloSolution\HelloLibrary\obj\Debug\net9.0\HelloLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\HelloSolution\HelloLibrary\obj\Debug\net9.0\HelloLibrary.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\HelloSolution\HelloLibrary\obj\Debug\net9.0\HelloLibrary.AssemblyInfo.cs
+C:\Users\user\source\repos\HelloSolution\HelloLibrary\obj\Debug\net9.0\HelloLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HelloSolution\HelloLibrary\obj\Debug\net9.0\HelloLibrary.sourcelink.json
+C:\Users\user\source\repos\HelloSolution\HelloLibrary\obj\Debug\net9.0\HelloLibrary.dll
+C:\Users\user\source\repos\HelloSolution\HelloLibrary\obj\Debug\net9.0\refint\HelloLibrary.dll
+C:\Users\user\source\repos\HelloSolution\HelloLibrary\obj\Debug\net9.0\HelloLibrary.pdb
+C:\Users\user\source\repos\HelloSolution\HelloLibrary\obj\Debug\net9.0\ref\HelloLibrary.dll
